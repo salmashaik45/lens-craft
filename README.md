@@ -5,7 +5,7 @@ The project demonstrates a smooth toggle sidebar menu with interactive elements 
 
 ## 🚀 Live Demo
 
-- https://lens-craft-project.netlify.app/
+ https://lens-craft-project.netlify.app/
 
 ## ✨ Features
 
@@ -21,9 +21,9 @@ The project demonstrates a smooth toggle sidebar menu with interactive elements 
 
 ## 🛠️ Tech Stack
 
-HTML5
+- HTML5
 
-CSS3
+- CSS3
 
 ## 📂 Project Structure
 
@@ -36,10 +36,10 @@ Lens-Craft/
 
 ## 📚 What I Learned
 
-Structuring webpages using semantic HTML
+- Structuring webpages using semantic HTML
 
-Styling layouts with CSS positioning
+- Styling layouts with CSS positioning
 
-Implementing sidebar toggle without JavaScript
+- Implementing sidebar toggle without JavaScript
 
-Improving UI with hover effects and transitions
+- Improving UI with hover effects and transitions
