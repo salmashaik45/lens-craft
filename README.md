@@ -5,19 +5,19 @@ The project demonstrates a smooth toggle sidebar menu with interactive elements 
 
 ## 🚀 Live Demo
 
-🔗 https://lens-craft-project.netlify.app/
+- https://lens-craft-project.netlify.app/
 
 ## ✨ Features
 
-📂 Responsive sidebar navigation
+- Responsive sidebar navigation
 
-🔄 Smooth open/close toggle using CSS checkbox technique
+- Smooth open/close toggle using CSS checkbox technique
 
-🎨 Hover effects and smooth transitions
+- Hover effects and smooth transitions
 
-🌐 Social media icons integration (Font Awesome)
+- Social media icons integration (Font Awesome)
 
-🖌️ Clean layout, typography, and spacing
+- Clean layout, typography, and spacing
 
 ## 🛠️ Tech Stack
 
@@ -27,10 +27,12 @@ CSS3
 
 ## 📂 Project Structure
 
+```
 Lens-Craft/
 │── index.html
 │── style.css
 │── photo.jpg
+```
 
 ## 📚 What I Learned
 
