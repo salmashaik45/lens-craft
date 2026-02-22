@@ -1,4 +1,4 @@
-📸 Lens Craft
+#📸 Lens Craft
 
 Lens Craft is a photography-themed sidebar navigation webpage built using HTML5 and CSS3.
 The project demonstrates a smooth toggle sidebar menu with interactive elements and clean UI styling using pure CSS.
