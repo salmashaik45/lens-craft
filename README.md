@@ -15,10 +15,6 @@ The project demonstrates a smooth toggle sidebar menu with interactive elements 
 
 - Hover effects and smooth transitions
 
-- Social media icons integration (Font Awesome)
-
-- Clean layout, typography, and spacing
-
 ## Tech Stack
 
 - HTML5
