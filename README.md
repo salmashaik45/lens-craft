@@ -33,13 +33,3 @@ Lens-Craft/
 │── style.css
 │── photo.jpg
 ```
-
-## 📚 What I Learned
-
-- Structuring webpages using semantic HTML
-
-- Styling layouts with CSS positioning
-
-- Implementing sidebar toggle without JavaScript
-
-- Improving UI with hover effects and transitions
