@@ -77,7 +77,3 @@ This project helped practice:
 GitHub: https://github.com/salmashaik45
 
 ---
-
-## ⭐ Support
-
-If you like this project, consider **starring the repository** ⭐
