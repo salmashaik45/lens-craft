@@ -38,6 +38,8 @@ This project focuses on **modern UI styling, hover interactions, and smooth tran
 
 - **HTML5**
 - **CSS3**
+- **Google Fonts (Poppins)**
+- **Font Awesome Icons**
 
 ---
 
