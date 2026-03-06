@@ -1,43 +1,81 @@
-#📸 Lens Craft
+# 📷 Lens Craft
 
-Lens Craft is a photography-themed sidebar navigation webpage built using HTML5 and CSS3.
-The project demonstrates a smooth toggle sidebar menu with interactive elements and clean UI styling using pure CSS.
+Lens Craft is a photography-themed sidebar navigation webpage built using **HTML5 and CSS3**.  
+It demonstrates a clean UI layout with a **smooth toggle sidebar menu** implemented using the **CSS checkbox technique**.
 
-🚀 Live Demo
+This project focuses on **modern UI styling, hover interactions, and smooth transitions using pure CSS without JavaScript.**
+
+---
+
+## 🚀 Live Demo
 
 🔗 https://lens-craft-project.netlify.app/
 
-✨ Features
+---
 
-📂 Responsive sidebar navigation
+## 📸 Screenshots
 
-🔄 Smooth open/close toggle using CSS checkbox technique
+### Main Page
+![Main Page](assets/screenshot-main.png)
 
-🎨 Hover effects and smooth transitions
+### Sidebar Navigation
+![Sidebar Menu](assets/screenshot-sidebar.png)
 
-🌐 Social media icons integration (Font Awesome)
+---
 
-🖌️ Clean layout, typography, and spacing
+## ✨ Features
 
-🛠️ Tech Stack
+- Responsive sidebar navigation
+- Smooth open/close toggle using CSS checkbox technique
+- Clean and minimal UI design
+- Hover effects and smooth transitions
+- Social media icons integration
+- Fully built using **pure HTML and CSS**
 
-HTML5
+---
 
-CSS3
+## 🛠 Tech Stack
 
-📂 Project Structure
+- **HTML5**
+- **CSS3**
 
+---
+
+## 📂 Project Structure
+
+```
 Lens-Craft/
 │── index.html
 │── style.css
 │── photo.jpg
+│── assets/
+│    ├── screenshot-main.png
+│    ├── screenshot-sidebar.png
+│── README.md
+```
 
-📚 What I Learned
+---
 
-Structuring webpages using semantic HTML
+## 🎯 Learning Objectives
 
-Styling layouts with CSS positioning
+This project helped practice:
 
-Implementing sidebar toggle without JavaScript
+- Sidebar UI design
+- CSS positioning and layout
+- CSS transitions and hover effects
+- Checkbox toggle technique
+- Integrating icons using Font Awesome
 
-Improving UI with hover effects and transitions
+---
+
+## 👩‍💻 Author
+
+**Salma Shaik**
+
+GitHub: https://github.com/salmashaik45
+
+---
+
+## ⭐ Support
+
+If you like this project, consider **starring the repository** ⭐
